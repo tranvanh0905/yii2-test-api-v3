@@ -1,0 +1,21 @@
+{
+    "name": "vietanh/yii2-vietanh-api-v3",
+    "description": "api v3",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Viet Anh",
+            "email": "tranvanh0905@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "vietanh\\apiv3\\": ""
+        }
+    }
+}
